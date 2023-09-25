@@ -38,8 +38,8 @@ const Contato = () => (
     <div className='wrapper-box'>
       <Row opt={{ isBoxed: true }}>
         <div className='hero-txt'>
-          <h1>Fale direto com o Milton</h1>
-          <h2>(12) 98106-2959</h2>
+          <h1>Fale direto com a Naice</h1>
+          <h2>(16) 99352-8443</h2>
         </div>
         <ul className='contact-link-tree-wrapper'>
           {Object.entries(mainConfigs.business.sameAs).map(

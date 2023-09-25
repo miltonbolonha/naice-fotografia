@@ -6,9 +6,9 @@ Projeto de Ensino de Tecnologia
 
 - Logo do Projeto
 
-Eu sou o Milton Bolonha, um programador e versionador de códigos. Eu estou aqui para te ensinar tecnologia de ponta.
+Eu sou o Naice Fotografia, um programador e versionador de códigos. Eu estou aqui para te ensinar tecnologia de ponta.
 
-Bem-vindo ao projeto repositório de códigos da Bolonha Conversas. Nós temos uma base sólida para iniciarmos nossas aventuras no mundo da tecnologia, utilizando a poderosa ferramenta do Github.
+Bem-vindo ao projeto repositório de códigos da Naice Fotografia. Nós temos uma base sólida para iniciarmos nossas aventuras no mundo da tecnologia, utilizando a poderosa ferramenta do Github.
 
 # Sobre o Projeto
 
@@ -26,7 +26,7 @@ Segue a contagem de palavras e relação das principais tecnologias:
 
 # Como Usar
 
-Para começar acesse o Boilerplate Next.js do repositório de Milton Bolonha.
+Para começar acesse o Boilerplate Next.js do repositório de Naice Fotografia.
 
 Use o Github Template. Acesse a página gerada no GitHub Pages. Ou inicie o servidor de desenvolvimento com o comando:
 

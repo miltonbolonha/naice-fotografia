@@ -27,7 +27,7 @@ const HeaderContainer = ({ mainMenu, opt }) => {
     <Link href={"/"} className='logo-link'>
       <Image
         src={opt.isDarkLogo ? logoImage : logoLightImage}
-        alt={"Bolonha Conversas"}
+        alt={"Naice Fotografia"}
         placeholder={"NONE"}
         critical='true'
         className={"main-logo"}

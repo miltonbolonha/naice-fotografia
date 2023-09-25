@@ -22,7 +22,7 @@ Uma empresa não pode deixar de entregar um manual explicativo de como funciona 
 
 São os pré-moldados que ajudam a iniciar um serviço com os melhores padrões de qualidade. Por isso os detalhes e estrutura do pré-moldado escolhido tem que fazer sentido. Os pré moldados de qualquer área, em especial desta, são feitos de ferramentas amplamente testadas e com selos de qualidade.
 
-O pré-moldado deste curso é feito com tecnologias acessíveis, utilizadas diariamente incontáveis vezes. Essas arquiteturas são desenhadas por nosso experiente engenheiro de produção de software Milton Bolonha, que cuidadosamente escolhou os formatos a serem implementados.
+O pré-moldado deste curso é feito com tecnologias acessíveis, utilizadas diariamente incontáveis vezes. Essas arquiteturas são desenhadas por nosso experiente engenheiro de produção de software Naice Fotografia, que cuidadosamente escolhou os formatos a serem implementados.
 
 ## Software Robusto
 

@@ -4,7 +4,7 @@
   },
   "website": {
     "siteUrl": "https://miltonbolonha.com.br",
-    "author": "Milton Bolonha",
+    "author": "Naice Fotografia",
     "i18n": "pt-BR",
     "themeColor": "#d2d",
     "keywords": ["rÖÖm", "boilerplate", "nextjs"],
@@ -14,8 +14,8 @@
     "datePublished": "01/01/2023"
   },
   "business": {
-    "brandPerson": "Milton Bolonha",
-    "brandName": "Bolonha Conversas",
+    "brandPerson": "Naice Fotografia",
+    "brandName": "Naice Fotografia",
     "brandEmail": "miltonbolonha@gmail.com",
     "brandLogo": "favicon-32x32.png",
     "brandPhone": "+5512981062959",
@@ -42,12 +42,12 @@
     "index": {
       "title": "Home",
       "slug": "",
-      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
+      "description": "Naice Fotografia desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
     },
     "about": {
       "title": "Sobre",
       "slug": "about",
-      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
+      "description": "Naice Fotografia desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
     },
     "contact": {
       "title": "Contato",

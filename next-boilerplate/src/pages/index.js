@@ -38,19 +38,32 @@ const Home = ({ posts }) => (
     <h2>Início: Sumário</h2>
     <div className='wrapper-box'>
       <Row opt={{ isBoxed: true }}>
+        <p>Bem-vindo ao mundo da fotografia 
+          Naice Peixoto, onde as histórias se 
+          transformam em memórias! 
+        </p><p>
+          Eu e a minha equipe somos apaixonados por capturar momentos especiais 
+          e transformá-los 
+          em lembranças eternas. Seja para um casamento grandioso, 
+          um elopement íntimo, um destination wedding dos sonhos, 
+          ou simplesmente um ensaio pré-wedding cheio de amor, 
+          estamos aqui para tornar cada momento inesquecível. 
+          Viajamos para onde sua história nos levará, e esperamos que seja a 
+          sua próxima história a ser contada através das nossas lentes.
+        </p>
         <div className='hero-txt'>
           <ul>
-            <li>Ação de Posicionamento de Marketing </li>
-            <li>Organização de Dados Estruturados</li>
-            <li>Gerenciamento de Comunidades</li>
-            <li>Aquisição de Tecnologia de Ponta</li>
-            <li>Modelagem de Inteligência Artificial</li>
-            <li>Obtenção de Resultados</li>
+            <li>Casamentos</li>
+            <li>Elopment</li>
+            <li>Destination Wedding</li>
+            <li>Pré Wedding </li>
+            <li>Ensaio casal </li>
+            <li>Debutante</li>
           </ul>
         </div>
       </Row>
     </div>
-    <h2>Lista: DEVaneios</h2>
+    <h2>Últimos Ensaios</h2>
     <div className='wrapper-box'>
       <div className='post'>
         <BlogList posts={posts} />

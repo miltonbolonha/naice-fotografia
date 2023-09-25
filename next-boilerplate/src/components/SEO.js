@@ -4,7 +4,7 @@ const Seo = ({ children, data = null }) => {
   if (!data) {
     return (
       <Head>
-        <title>NO SEO DATA - Bolonha Conversas</title>
+        <title>NO SEO DATA - Naice Fotografia</title>
       </Head>
     );
   }

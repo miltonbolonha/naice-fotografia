@@ -34,13 +34,13 @@ const AboutPage = () => (
         twitter: mainConfigs.business.twitterCard,
       }}
     />
-    <h2>Página: Milton Bolonha</h2>
+    <h2>Página: Naice Fotografia</h2>
     <div className='wrapper-box'>
       <Row opt={{ isBoxed: true }}>
         <div className='hero-txt'>
-          <h1>Milton Bolonha</h1>
+          <h1>Naice Fotografia</h1>
           <h2>Especialista em Tecnologia e Marketing</h2>
-          <p>Milton Bolonha desenvolve sites desde 1998.</p>
+          <p>Naice Fotografia desenvolve sites desde 1998.</p>
           <p>
             Como especialista faz a curadoria e implementação sustentável de
             códigos e de tecnologias.

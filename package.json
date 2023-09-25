@@ -5,8 +5,8 @@
     "next-boilerplate"
   ],
   "private": false,
-  "description": "Bolonha Conversas NextJS Theme",
-  "author": "Bolonha Conversas <miltonbolonha@gmail.com>",
+  "description": "Naice Fotografia NextJS Theme",
+  "author": "Naice Fotografia <naicepeixotofotografia@gmail.com>",
   "keywords": [
     "nextjs workspace",
     "workspace engine",
@@ -16,7 +16,7 @@
     "nextjs layout",
     "nextjs builder",
     "nextjs theme boilerplate",
-    "nextjs theme Bolonha Conversas",
+    "nextjs theme Naice Fotografia",
     "layout builder",
     "seo",
     "builder"
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miltonbolonha/next-boilerplate"
+    "url": "git+https://github.com/naice-fotografia/next-boilerplate"
   },
   "license": "MIT",
   "publishConfig": {
@@ -37,7 +37,7 @@
     "@nuktpls:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/miltonbolonha/next-boilerplate/issues"
+    "url": "https://github.com/naice-fotografia/next-boilerplate/issues"
   },
   "dependencies": {
     "@fontsource/varela": "^5.0.4"
